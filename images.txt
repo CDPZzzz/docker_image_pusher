@@ -1,6 +1,11 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+mysql:8.0.29
+wurstmeister/zookeeper
+wurstmeister/kafka
+redis:7.0.10
+nacos/nacos-server:v2.1.1
+bladex/sentinel-dashboard
+elasticsearch:8.5.0
+kibana:8.5.0
+openzipkin/zipkin
+minio/minio
