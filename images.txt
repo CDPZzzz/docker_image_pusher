@@ -9,3 +9,6 @@ elasticsearch:8.5.0
 kibana:8.5.0
 openzipkin/zipkin
 minio/minio
+logstash:7.8.0
+elastic/filebeat:7.8.0
+mongo:4.2.5
