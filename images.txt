@@ -12,3 +12,5 @@ minio/minio
 logstash:7.8.0
 elastic/filebeat:7.8.0
 mongo:4.2.5
+mysql:5.7
+rabbitmq:management
